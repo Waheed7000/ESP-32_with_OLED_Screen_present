@@ -77,16 +77,17 @@ bool Buttons_backwardPressed() {
 // ============================================================================
 extern Screen screen1TextScreen;
 extern Screen screen2RainScreen;
+extern Screen screen4GithubScreen ;
 
 Screen* screens[] = {
   &screen1TextScreen,
   &screen2RainScreen,
+  &screen4GithubScreen,
 };
 
 const uint16_t TOTAL_SCREENS = sizeof(screens) / sizeof(screens[0]);
 
-int16_t currentScreenIndex = 0;
-int16_t lastDrawnIndex = -1;
+volatile int16_t currentScreenIndex = 0;
 
 // ============================================================================
 // BUZZER TASK - runs independently in the background on Core 0.
@@ -96,6 +97,14 @@ void BuzzerTask(void* parameter) {
   for (;;) {
     Buzzer_update();
     vTaskDelay(pdMS_TO_TICKS(5)); // small poll interval, keeps timing tight
+  }
+}
+
+void RenderTask(void* parameter) {
+  for (;;) {
+    int16_t indexNow = currentScreenIndex;
+    Rendering_draw(screens[indexNow], 200); // small holdMs: keeps GIF looping forever, and re-checks the index often so button presses feel instant
+    vTaskDelay(pdMS_TO_TICKS(10));
   }
 }
 
@@ -125,6 +134,8 @@ void setup() {
     0               // run on Core 0 (main loop runs on Core 1)
   );
 
+  xTaskCreatePinnedToCore(RenderTask, "RenderTask", 4096, NULL, 1, NULL, 0);
+
   display.clearDisplay();
   display.display();
 }
@@ -143,10 +154,5 @@ void loop() {
     if (currentScreenIndex > 0) {
       currentScreenIndex--;
     }
-  }
-
-  if (TOTAL_SCREENS > 0 && currentScreenIndex != lastDrawnIndex) {
-    lastDrawnIndex = currentScreenIndex;
-    Rendering_draw(screens[currentScreenIndex]);
   }
 }
