@@ -1060,8 +1060,8 @@
       </alphaPercent>
       <points>
         <point x="0.6" y="1.8"/>
-        <point x="1.4" y="1.8"/>
-        <point x="1.0" y="1.8"/>
+        <point x="0.8" y="1.8"/>
+        <point x="0.7" y="1.8"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1084,8 +1084,8 @@
       </alphaPercent>
       <points>
         <point x="1.2" y="2.2"/>
-        <point x="1.4" y="2.2"/>
-        <point x="1.3" y="2.2"/>
+        <point x="1.7" y="2.2"/>
+        <point x="1.45" y="2.2"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1539,9 +1539,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
+        <point x="2.6" y="2.4"/>
         <point x="2.4" y="2.4"/>
-        <point x="2.2" y="2.4"/>
-        <point x="2.3" y="2.4"/>
+        <point x="2.5" y="2.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1587,9 +1587,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.5" y="2.5"/>
-        <point x="2.2" y="2.5"/>
-        <point x="2.35" y="2.5"/>
+        <point x="2.7" y="2.5"/>
+        <point x="2.4" y="2.5"/>
+        <point x="2.55" y="2.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1707,9 +1707,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="1.4" y="2.2"/>
-        <point x="1.9" y="2.7"/>
-        <point x="1.65" y="2.45"/>
+        <point x="1.7" y="2.2"/>
+        <point x="2.2" y="2.7"/>
+        <point x="1.95" y="2.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1803,9 +1803,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="1.9" y="2.7"/>
         <point x="2.2" y="2.7"/>
-        <point x="2.05" y="2.7"/>
+        <point x="2.4" y="2.7"/>
+        <point x="2.3" y="2.7"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1852,8 +1852,8 @@
       </alphaPercent>
       <points>
         <point x="4.9" y="2.7"/>
-        <point x="5.2" y="2.7"/>
-        <point x="5.05" y="2.7"/>
+        <point x="5.4" y="2.7"/>
+        <point x="5.15" y="2.7"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1900,8 +1900,8 @@
       </alphaPercent>
       <points>
         <point x="4.9" y="2.6"/>
-        <point x="5.2" y="2.6"/>
-        <point x="5.05" y="2.6"/>
+        <point x="5.4" y="2.6"/>
+        <point x="5.15" y="2.6"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1948,8 +1948,8 @@
       </alphaPercent>
       <points>
         <point x="4.9" y="2.5"/>
-        <point x="5.2" y="2.5"/>
-        <point x="5.05" y="2.5"/>
+        <point x="5.4" y="2.5"/>
+        <point x="5.15" y="2.5"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -1971,9 +1971,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.2" y="2.4"/>
+        <point x="5.4" y="2.4"/>
         <point x="4.7" y="2.4"/>
-        <point x="4.95" y="2.4"/>
+        <point x="5.05" y="2.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2020,8 +2020,8 @@
       </alphaPercent>
       <points>
         <point x="4.7" y="2.2"/>
-        <point x="5.2" y="2.2"/>
-        <point x="4.95" y="2.2"/>
+        <point x="5.4" y="2.2"/>
+        <point x="5.05" y="2.2"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2043,9 +2043,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.3" y="2.4"/>
-        <point x="5.2" y="2.5"/>
-        <point x="5.25" y="2.45"/>
+        <point x="5.5" y="2.4"/>
+        <point x="5.4" y="2.5"/>
+        <point x="5.45" y="2.45"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2067,9 +2067,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.3" y="2.4"/>
-        <point x="5.3" y="2.3"/>
-        <point x="5.3" y="2.35"/>
+        <point x="5.5" y="2.4"/>
+        <point x="5.5" y="2.3"/>
+        <point x="5.5" y="2.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2091,9 +2091,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="5.2" y="2.2"/>
-        <point x="5.3" y="2.3"/>
-        <point x="5.25" y="2.25"/>
+        <point x="5.4" y="2.2"/>
+        <point x="5.5" y="2.3"/>
+        <point x="5.45" y="2.25"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2115,9 +2115,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.5" y="2.5"/>
-        <point x="2.7" y="2.3"/>
-        <point x="2.6" y="2.4"/>
+        <point x="2.7" y="2.5"/>
+        <point x="2.9" y="2.3"/>
+        <point x="2.8" y="2.4"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2139,9 +2139,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.4" y="2.4"/>
-        <point x="2.5" y="2.3"/>
-        <point x="2.45" y="2.35"/>
+        <point x="2.6" y="2.4"/>
+        <point x="2.7" y="2.3"/>
+        <point x="2.65" y="2.35"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2163,9 +2163,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.7" y="2.3"/>
-        <point x="2.7" y="2.1"/>
-        <point x="2.7" y="2.2"/>
+        <point x="2.9" y="2.3"/>
+        <point x="2.9" y="2.1"/>
+        <point x="2.9" y="2.2"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2187,9 +2187,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.5" y="2.3"/>
-        <point x="2.5" y="2.2"/>
-        <point x="2.5" y="2.25"/>
+        <point x="2.7" y="2.3"/>
+        <point x="2.7" y="2.2"/>
+        <point x="2.7" y="2.25"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2211,9 +2211,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.7" y="2.1"/>
-        <point x="2.5" y="1.9"/>
-        <point x="2.6" y="2.0"/>
+        <point x="2.9" y="2.1"/>
+        <point x="2.7" y="1.9"/>
+        <point x="2.8" y="2.0"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2235,9 +2235,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.5" y="2.2"/>
-        <point x="2.4" y="2.1"/>
-        <point x="2.45" y="2.15"/>
+        <point x="2.7" y="2.2"/>
+        <point x="2.6" y="2.1"/>
+        <point x="2.65" y="2.15"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2259,9 +2259,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.5" y="1.9"/>
+        <point x="2.7" y="1.9"/>
         <point x="1.5" y="1.9"/>
-        <point x="2.0" y="1.9"/>
+        <point x="2.1" y="1.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2283,9 +2283,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.4" y="2.1"/>
+        <point x="2.6" y="2.1"/>
         <point x="1.5" y="2.1"/>
-        <point x="1.95" y="2.1"/>
+        <point x="2.05" y="2.1"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2332,8 +2332,8 @@
       </alphaPercent>
       <points>
         <point x="1.9" y="2.9"/>
-        <point x="2.4" y="2.9"/>
-        <point x="2.15" y="2.9"/>
+        <point x="2.6" y="2.9"/>
+        <point x="2.25" y="2.9"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2355,9 +2355,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.2" y="2.6"/>
         <point x="2.4" y="2.6"/>
-        <point x="2.3" y="2.6"/>
+        <point x="2.6" y="2.6"/>
+        <point x="2.5" y="2.6"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2379,9 +2379,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.4" y="2.6"/>
-        <point x="2.5" y="2.7"/>
-        <point x="2.45" y="2.65"/>
+        <point x="2.6" y="2.6"/>
+        <point x="2.7" y="2.7"/>
+        <point x="2.65" y="2.65"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2403,9 +2403,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.4" y="2.9"/>
-        <point x="2.5" y="2.8"/>
-        <point x="2.45" y="2.85"/>
+        <point x="2.6" y="2.9"/>
+        <point x="2.7" y="2.8"/>
+        <point x="2.65" y="2.85"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2427,9 +2427,9 @@
         <value>100</value>
       </alphaPercent>
       <points>
-        <point x="2.5" y="2.7"/>
-        <point x="2.5" y="2.8"/>
-        <point x="2.5" y="2.75"/>
+        <point x="2.7" y="2.7"/>
+        <point x="2.7" y="2.8"/>
+        <point x="2.7" y="2.75"/>
       </points>
       <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
@@ -2444,69 +2444,30 @@
       <layer>_1</layer>
       <endingStyle>Round</endingStyle>
     </diylc.connectivity.CopperTrace>
-    <diylc.shapes.Rectangle>
-      <id>2bfa1990-7100-4ed0-8fc5-f8fda3be9c03</id>
-      <name>RECT1</name>
+    <diylc.connectivity.CopperTrace>
+      <id>6b39f694-75de-4fb3-bdca-5530d821a8a1</id>
+      <name>Trace99</name>
       <alphaPercent>
         <value>100</value>
       </alphaPercent>
-      <value></value>
-      <controlPoints>
-        <point x="4.0" y="3.4"/>
-        <point x="4.2" y="3.6"/>
-      </controlPoints>
-      <firstPoint x="4.0" y="3.4"/>
-      <secondPoint x="4.2" y="3.6"/>
-      <color hex="ffffff"/>
+      <points>
+        <point x="1.2" y="1.8"/>
+        <point x="1.4" y="1.8"/>
+        <point x="1.3" y="1.8"/>
+      </points>
+      <bodyColor hex="ffffff"/>
       <borderColor hex="000000"/>
-      <borderThickness value="0.2" unit="mm"/>
-      <length value="5.08" unit="mm"/>
-      <width value="5.08" unit="mm"/>
-      <mode>TwoPoints</mode>
-      <edgeRadius value="0.0" unit="mm"/>
-    </diylc.shapes.Rectangle>
-    <diylc.shapes.Rectangle>
-      <id>e5aeef9a-a7bf-4582-b0da-1326c6aa8d40</id>
-      <name>RECT2</name>
-      <alphaPercent>
-        <value>100</value>
-      </alphaPercent>
-      <value></value>
-      <controlPoints>
-        <point x="5.0" y="3.4"/>
-        <point x="5.2" y="3.6"/>
-      </controlPoints>
-      <firstPoint x="5.0" y="3.4"/>
-      <secondPoint x="5.2" y="3.6"/>
-      <color hex="ffffff"/>
-      <borderColor hex="000000"/>
-      <borderThickness value="0.2" unit="mm"/>
-      <length value="5.08" unit="mm"/>
-      <width value="5.08" unit="mm"/>
-      <mode>TwoPoints</mode>
-      <edgeRadius value="0.0" unit="mm"/>
-    </diylc.shapes.Rectangle>
-    <diylc.shapes.Rectangle>
-      <id>4a786b8f-162f-49e6-9aff-7916bd6baef3</id>
-      <name>RECT3</name>
-      <alphaPercent>
-        <value>100</value>
-      </alphaPercent>
-      <value></value>
-      <controlPoints>
-        <point x="5.7" y="2.1"/>
-        <point x="5.9" y="2.3"/>
-      </controlPoints>
-      <firstPoint x="5.7" y="2.1"/>
-      <secondPoint x="5.9" y="2.3"/>
-      <color hex="ffffff"/>
-      <borderColor hex="000000"/>
-      <borderThickness value="0.2" unit="mm"/>
-      <length value="5.08" unit="mm"/>
-      <width value="5.08" unit="mm"/>
-      <mode>TwoPoints</mode>
-      <edgeRadius value="0.0" unit="mm"/>
-    </diylc.shapes.Rectangle>
+      <labelColor hex="000000"/>
+      <leadColor hex="000000"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <thickness value="1.0" unit="mm"/>
+      <layer>_1</layer>
+      <endingStyle>Round</endingStyle>
+    </diylc.connectivity.CopperTrace>
     <diylc.shapes.Polygon>
       <id>31ebc74a-615d-4984-a4f7-80fb3dc213e8</id>
       <name>POLY1</name>
@@ -2735,27 +2696,185 @@
       <colorCode>_5_BAND</colorCode>
       <shape>Standard</shape>
     </diylc.passive.Resistor>
-    <diylc.shapes.Rectangle>
-      <id>600e2d91-0eb4-43b4-98b7-84ac56772e9b</id>
-      <name>RECT6</name>
+    <diylc.semiconductors.DiodePlastic>
+      <id>a6032e42-4630-49f5-866c-465ac06a2e70</id>
+      <name>D1</name>
       <alphaPercent>
-        <value>70</value>
+        <value>100</value>
+      </alphaPercent>
+      <length value="0.25" unit="in"/>
+      <width value="0.125" unit="in"/>
+      <points>
+        <point x="0.8" y="1.8"/>
+        <point x="1.2" y="1.8"/>
+        <point x="1.0" y="1.8"/>
+      </points>
+      <bodyColor hex="404040"/>
+      <borderColor hex="2c2c2c"/>
+      <labelColor hex="ffffff"/>
+      <leadColor hex="cccccc"/>
+      <display>NAME</display>
+      <flipStanding>false</flipStanding>
+      <labelOriantation>Directional</labelOriantation>
+      <moveLabel>false</moveLabel>
+      <hideShortLeads>false</hideShortLeads>
+      <value></value>
+      <markerColor hex="dddddd"/>
+    </diylc.semiconductors.DiodePlastic>
+    <diylc.electromechanical.TactileMicroSwitch>
+      <id>1172ff04-eb41-4aca-ad63-c0cfc3726fb7</id>
+      <name>SW1</name>
+      <alphaPercent>
+        <value>100</value>
       </alphaPercent>
       <value></value>
+      <orientation>DEFAULT</orientation>
       <controlPoints>
-        <point x="2.125" y="2.32"/>
-        <point x="2.28" y="2.775"/>
+        <point x="4.0" y="3.4"/>
+        <point x="4.0" y="3.595"/>
+        <point x="4.195" y="3.4"/>
+        <point x="4.195" y="3.595"/>
       </controlPoints>
-      <firstPoint x="2.125" y="2.32"/>
-      <secondPoint x="2.28" y="2.775"/>
-      <color hex="ffffff"/>
-      <borderColor hex="000000"/>
-      <borderThickness value="0.2" unit="mm"/>
-      <length value="3.937" unit="mm"/>
-      <width value="11.557" unit="mm"/>
-      <mode>Explicit</mode>
-      <edgeRadius value="0.0" unit="mm"/>
-    </diylc.shapes.Rectangle>
+      <display>BOTH</display>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <caseSize value="5.5" unit="mm"/>
+      <pinSpacing value="5.0" unit="mm"/>
+      <rowSpacing value="5.0" unit="mm"/>
+      <pinPairingMode>Opposite</pinPairingMode>
+      <selectedPosition>0</selectedPosition>
+    </diylc.electromechanical.TactileMicroSwitch>
+    <diylc.electromechanical.PinHeader>
+      <id>4b25161b-8b14-4ef3-b692-05a9c1c0b5a4</id>
+      <name>PH1</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <orientation>DEFAULT</orientation>
+      <controlPoints>
+        <point x="2.4" y="2.4"/>
+        <point x="2.4" y="2.5"/>
+        <point x="2.4" y="2.6"/>
+        <point x="2.4" y="2.7"/>
+      </controlPoints>
+      <rowCount>1</rowCount>
+      <columnCount>4</columnCount>
+      <spacing value="0.1" unit="in"/>
+      <shrouded>false</shrouded>
+      <bodyColor hex="808080"/>
+      <shroudColor hex="595959"/>
+    </diylc.electromechanical.PinHeader>
+    <diylc.electromechanical.PinHeader>
+      <id>e92f5609-cab2-4a4c-9c75-ad2e0875f100</id>
+      <name>PH3</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <orientation>_90</orientation>
+      <controlPoints>
+        <point x="5.3" y="0.8"/>
+        <point x="5.2" y="0.8"/>
+        <point x="5.1" y="0.8"/>
+        <point x="5.0" y="0.8"/>
+        <point x="4.9" y="0.8"/>
+        <point x="4.8" y="0.8"/>
+        <point x="4.7" y="0.8"/>
+        <point x="4.6" y="0.8"/>
+        <point x="4.5" y="0.8"/>
+        <point x="4.4" y="0.8"/>
+        <point x="4.3" y="0.8"/>
+        <point x="4.2" y="0.8"/>
+        <point x="4.1" y="0.8"/>
+        <point x="4.0" y="0.8"/>
+        <point x="3.9" y="0.8"/>
+      </controlPoints>
+      <rowCount>1</rowCount>
+      <columnCount>15</columnCount>
+      <spacing value="0.1" unit="in"/>
+      <shrouded>false</shrouded>
+      <bodyColor hex="808080"/>
+      <shroudColor hex="595959"/>
+    </diylc.electromechanical.PinHeader>
+    <diylc.electromechanical.PinHeader>
+      <id>0a089cf5-2a00-4344-a25b-c6df96442da6</id>
+      <name>PH2</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <orientation>_90</orientation>
+      <controlPoints>
+        <point x="5.3" y="1.8"/>
+        <point x="5.2" y="1.8"/>
+        <point x="5.1" y="1.8"/>
+        <point x="5.0" y="1.8"/>
+        <point x="4.9" y="1.8"/>
+        <point x="4.8" y="1.8"/>
+        <point x="4.7" y="1.8"/>
+        <point x="4.6" y="1.8"/>
+        <point x="4.5" y="1.8"/>
+        <point x="4.4" y="1.8"/>
+        <point x="4.3" y="1.8"/>
+        <point x="4.2" y="1.8"/>
+        <point x="4.1" y="1.8"/>
+        <point x="4.0" y="1.8"/>
+        <point x="3.9" y="1.8"/>
+      </controlPoints>
+      <rowCount>1</rowCount>
+      <columnCount>15</columnCount>
+      <spacing value="0.1" unit="in"/>
+      <shrouded>false</shrouded>
+      <bodyColor hex="808080"/>
+      <shroudColor hex="595959"/>
+    </diylc.electromechanical.PinHeader>
+    <diylc.electromechanical.TactileMicroSwitch>
+      <id>24f405c2-6122-4f78-8599-3822dc9cf35b</id>
+      <name>SW2</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <value></value>
+      <orientation>DEFAULT</orientation>
+      <controlPoints>
+        <point x="5.0" y="3.4"/>
+        <point x="5.0" y="3.595"/>
+        <point x="5.195" y="3.4"/>
+        <point x="5.195" y="3.595"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <caseSize value="5.5" unit="mm"/>
+      <pinSpacing value="5.0" unit="mm"/>
+      <rowSpacing value="5.0" unit="mm"/>
+      <pinPairingMode>Opposite</pinPairingMode>
+      <selectedPosition>0</selectedPosition>
+    </diylc.electromechanical.TactileMicroSwitch>
+    <diylc.electromechanical.TactileMicroSwitch>
+      <id>b8b15973-225a-4713-b6fa-392d7958ffdf</id>
+      <name>SW3</name>
+      <alphaPercent>
+        <value>100</value>
+      </alphaPercent>
+      <value></value>
+      <orientation>DEFAULT</orientation>
+      <controlPoints>
+        <point x="5.7" y="2.1"/>
+        <point x="5.7" y="2.295"/>
+        <point x="5.895" y="2.1"/>
+        <point x="5.895" y="2.295"/>
+      </controlPoints>
+      <display>BOTH</display>
+      <bodyColor hex="c0c0c0"/>
+      <borderColor hex="595959"/>
+      <labelColor hex="ffffff"/>
+      <caseSize value="5.5" unit="mm"/>
+      <pinSpacing value="5.0" unit="mm"/>
+      <rowSpacing value="5.0" unit="mm"/>
+      <pinPairingMode>Opposite</pinPairingMode>
+      <selectedPosition>0</selectedPosition>
+    </diylc.electromechanical.TactileMicroSwitch>
     <diylc.connectivity.HookupWire>
       <id>4d268beb-378e-4966-9d7c-3311ae9756aa</id>
       <name>W1</name>
@@ -3241,7 +3360,7 @@
     <diylc.misc.Label>
       <id>7c3cc06f-4672-4779-9b89-c8820d0a9e02</id>
       <name>LAB26</name>
-      <point x="2.2" y="2.4"/>
+      <point x="2.4" y="2.4"/>
       <text>VCC</text>
       <font name="Dialog.plain" size="14" style="0"/>
       <color hex="ff0000"/>
@@ -3252,7 +3371,7 @@
     <diylc.misc.Label>
       <id>7d32a2f0-2116-47cb-9ee0-4f8596834a7f</id>
       <name>LAB42</name>
-      <point x="2.2" y="2.5"/>
+      <point x="2.4" y="2.5"/>
       <text>GND</text>
       <font reference="../../diylc.misc.Label[41]/font"/>
       <color hex="00ffff"/>
@@ -3263,7 +3382,7 @@
     <diylc.misc.Label>
       <id>e2400de2-19a0-4169-8687-be329d8e7fd4</id>
       <name>LAB43</name>
-      <point x="2.2" y="2.6"/>
+      <point x="2.4" y="2.6"/>
       <text>BAT GND</text>
       <font reference="../../diylc.misc.Label[41]/font"/>
       <color hex="00ffff"/>
@@ -3274,7 +3393,7 @@
     <diylc.misc.Label>
       <id>53f85707-e654-4da0-a781-1c666e579842</id>
       <name>LAB44</name>
-      <point x="2.2" y="2.7"/>
+      <point x="2.4" y="2.7"/>
       <text>K</text>
       <font reference="../../diylc.misc.Label[41]/font"/>
       <color hex="00ffff"/>
@@ -3285,7 +3404,7 @@
     <diylc.misc.Label>
       <id>d5cb4a22-dbdc-4309-a6da-02ee7836fa2c</id>
       <name>LAB46</name>
-      <point x="5.2" y="2.5"/>
+      <point x="5.4" y="2.5"/>
       <text>GND</text>
       <font name="Dialog.plain" size="14" style="0"/>
       <color hex="00ffff"/>
@@ -3296,7 +3415,7 @@
     <diylc.misc.Label>
       <id>c9967446-31be-4977-af6e-53c485844fe0</id>
       <name>LAB47</name>
-      <point x="5.2" y="2.6"/>
+      <point x="5.4" y="2.6"/>
       <text>BAT GND</text>
       <font name="Dialog.plain" size="14" style="0"/>
       <color hex="00ffff"/>
@@ -3307,7 +3426,7 @@
     <diylc.misc.Label>
       <id>6ec4eb41-a85f-47a9-8403-c4fd3beefb4b</id>
       <name>LAB48</name>
-      <point x="5.2" y="2.7"/>
+      <point x="5.4" y="2.7"/>
       <text>K</text>
       <font name="Dialog.plain" size="14" style="0"/>
       <color hex="00ffff"/>
@@ -3318,7 +3437,7 @@
     <diylc.misc.Label>
       <id>38d15931-023a-492b-9fc5-c745134c8c32</id>
       <name>LAB45</name>
-      <point x="5.2" y="2.4"/>
+      <point x="5.4" y="2.4"/>
       <text>VCC</text>
       <font name="Dialog.plain" size="14" style="0"/>
       <color hex="ff0000"/>
