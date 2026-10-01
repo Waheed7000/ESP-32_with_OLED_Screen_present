@@ -127,7 +127,8 @@ The idea is that the core code is finished and never needs to change. New conten
 | `Rendering.h` / `Rendering.cpp` | The only code that knows how to draw a `Screen`, based on its type. Written once and shared by all screens. |
 | `Buzzer.h` / `Buzzer.cpp` | Everything related to the buzzer, including the melody (two arrays). |
 
-### Data model
+### Data model   
+
 
 A `Screen` has a type (`SCREEN_TYPE_TEXT`, `SCREEN_TYPE_IMAGE`, `SCREEN_TYPE_GIF`) and only the fields that type needs: text lines and text size, or a list of bitmap frames plus a delay between frames. Because every screen is the same kind of object, the main file just stores pointers to them in an array and moves through it.
 
